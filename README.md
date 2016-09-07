@@ -1,0 +1,2 @@
+# smarteditor
+一个基于trie树的具有联想功能的文本编辑器。采用python和pyqt
